@@ -1,0 +1,12 @@
+Source: sagarmatha-translations
+Section: admin
+Priority: optional
+Maintainer: Arun Kumar Pyasi <root@chitwanix.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: sagarmatha-translations
+Replaces: sagarmatha-common
+Architecture: all
+Description: Translation files for the Sagarmatha desktop
+ Translation files for the Sagarmatha desktop.
